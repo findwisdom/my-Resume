@@ -1,0 +1,58 @@
+
+body{
+    font-family: "Lato","Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+}
+/*进度条*/
+.progress{
+    margin-bottom: 13px;
+}
+/*头像*/
+.wh64{
+    width: 64px;
+    height: 64px;
+    border-radius:50% ;
+}
+/*边距*/
+.mar_t15{
+    margin-top:15px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.mar_15{
+    margin-top:15px;
+}
+/*page-header*/
+.page-header{
+    margin-top: 0;
+}
+.page-header h2{
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+/*form*/
+#form{
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-top:none ;
+}
+.top{
+    margin-top: 15px;
+}
+.taglist{
+    padding-top: 15px;
+}
+.taglist .alert{
+    margin: 0 10px 10px 0;
+}
+.pad0{
+    padding: 0;
+}
+/*footer*/
+
+footer{
+    font-weight: 400;
+    padding: 20px;
+    text-align: center;
+}
